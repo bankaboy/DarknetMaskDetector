@@ -1,10 +1,10 @@
 ## Introduction :
-This file contains the steps taken in this project to implement the given problem
-This is a library called darknet which is available on GitHub - https://github.com/AlexeyAB/darknet.
+This file contains the steps taken in this project to implement the given problem<br>
+This is a library called darknet which is available on GitHub - https://github.com/AlexeyAB/darknet.<br>
 I have used this to train a custom model to detect to classes - 
 * People with masks
 * People without masks
-The model can work on images, videos and webcams and present live results.
+The model can work on images, videos and webcams and present live results.<br>
 
 ## Steps to setup - 
  * ### Downloading necessary materials - 
@@ -19,9 +19,9 @@ The model can work on images, videos and webcams and present live results.
  3. obj.zip is the dataset along with annotations files. Not needed to run model.
  4. Evaluation.zip contains the detection images.
 
-Currently the library is in its raw form without any object files or dependencies setup.
-The library is supported by NVIDIA CUDA and it is benificial to have OpenCV as well.
-These are steps to setup the library in two different types of environments.
+Currently the library is in its raw form without any object files or dependencies setup.<br>
+The library is supported by NVIDIA CUDA and it is benificial to have OpenCV as well.<br>
+These are steps to setup the library in two different types of environments.<br>
  * ### Setup on a non gpu instance -
  1. Go to Makefile.
  2. In the top keep GPU, CUDNN, CUDNN_HALF = 0.

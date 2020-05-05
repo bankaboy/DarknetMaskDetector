@@ -8,7 +8,8 @@ The model can work on images, videos and webcams and present live results.<br>
 
 ## Steps to setup - 
  * ### Downloading necessary materials - 
- Materials - https://drive.google.com/open?id=1cniJAl1KFK3F_YV0CAEjoI4CUSJlQO5F
+ Materials - https://drive.google.com/folderview?id=1cniJAl1KFK3F_YV0CAEjoI4CUSJlQO5F
+
  1. Training_cfg_obj_files - 
     * Put yolo-obj.cfg in cfg folder of darknet_mask_detection folder.
     * Put obj.names, obj.data and train.txt in data folder of darknet_mask_detection folder.
